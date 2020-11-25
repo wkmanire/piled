@@ -1,1 +1,5 @@
 .idea/
+venv/
+.tox/
+*.egg-info/
+__pycache__/
